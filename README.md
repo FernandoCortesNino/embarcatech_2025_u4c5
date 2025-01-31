@@ -3,3 +3,4 @@ Atividade_1
 #Explicação do Funcionamento O projeto foi configurado para alternar automaticamente entre os estados do semáforo com base em um temporizador periódico. Cada estado é representado por um LED diferente:
 
 # Segue o link da atividade 1 : https://drive.google.com/file/d/1QzHGfhVbpD3OK5WTtMeYackQ0JT87B1U/view?usp=sharing
+# Segue o link da atividade 2 : https://drive.google.com/file/d/19zxPgcGFfKjX7CeR7k0RvpNi5L7PNmvF/view?usp=sharing
