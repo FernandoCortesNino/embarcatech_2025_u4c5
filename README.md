@@ -1,6 +1,5 @@
 Atividade_1
-# Neste vídeo, vou apresentar o projeto de um semáforo com temporização periódica utilizando o microcontrolador Raspberry Pi Pico W e a função add_repeating_timer_ms() do Pico SDK. 
-#Explicação do Funcionamento O projeto foi configurado para alternar automaticamente entre os estados do semáforo com base em um temporizador periódico. Cada estado é representado por um LED diferente:
-
+#Esta tarefa envolve um sinal luminoso conectado às interfaces GPIO 11, 12 e 13, que altera seu estado a cada 3 segundos, enquanto uma notificação é transmitida via comunicação serial a cada 1 segundo.
+#Ao realizar testes na placa BitDogLab, os LEDs acenderam na sequência esperada, porém, devido à ausência de um LED na cor amarela, o comportamento observado não foi exatamente igual ao da simulação e troquei pela cor azul. Com isso, a tarefa realizada foi um sucesso!
 # Segue o link da atividade 1 : https://drive.google.com/file/d/1QzHGfhVbpD3OK5WTtMeYackQ0JT87B1U/view?usp=sharing
-# Segue o link da atividade 2 : https://drive.google.com/file/d/19zxPgcGFfKjX7CeR7k0RvpNi5L7PNmvF/view?usp=sharing
+
